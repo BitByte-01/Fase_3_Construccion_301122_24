@@ -1,0 +1,9 @@
+@font-face {
+  font-family: franklin1;
+  src:url(fonts/"franklin-gothic-heavy.ttf");  
+}
+
+@font-face {
+  font-family: franklin-gothic-book;
+  src:url(fonts/"franklin-gothic-book.ttf");  
+}
